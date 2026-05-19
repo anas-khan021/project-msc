@@ -1,8 +1,8 @@
-Rotating T-Handle Dynamics Simulation (MATLAB + Python)
+## Rotating T-Handle Dynamics Simulation (MATLAB + Python)
 
 This project simulates the 3D rotational dynamics of a rigid T-shaped body (T-handle) using Euler’s equations of rigid body motion and 3-1-3 Euler angle kinematics. The system evolves freely in space with no external torque, making it a classical demonstration of angular momentum conservation and rigid body dynamics instability.
 
-The project includes both:
+# The project includes both:
 
 MATLAB implementation (original thesis version)
 Python implementation (converted version for reproducibility and visualization)
@@ -49,8 +49,8 @@ E = ½ (λ₁ω₁² + λ₂ω₂² + λ₃ω₃²)
 
 Since there is no external torque, the system is conservative and:
 
-✔ Total energy remains constant over time
-✔ Numerical fluctuations may appear due to discretization
+Total energy remains constant over time
+Numerical fluctuations may appear due to discretization
 
 Angular Momentum About the Center of Mass
 
@@ -68,11 +68,11 @@ Physical interpretation:
 Angular momentum is conserved in absence of external torque
 Components change due to rotation in the body frame
 The magnitude remains constant (ideal case)
-🔹 Total Angular Momentum Conservation
+Total Angular Momentum Conservation
 
-✔ In inertial space: total angular momentum vector is conserved
-✔ In body frame: components vary due to rotation
-✔ This is a key demonstration of rigid body dynamics
+In inertial space: total angular momentum vector is conserved
+In body frame: components vary due to rotation
+This is a key demonstration of rigid body dynamics
 
 Animation
 
@@ -84,8 +84,6 @@ Motion reconstructed from Euler angles
 Real-time rigid body tumbling behavior
 
 Results
-
-(Add your figures here in GitHub)
 
 Suggested images to include:
 
