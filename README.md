@@ -78,9 +78,8 @@ project-msc/
 │
 ├── matlab code/
 ├── python/
-├── images/
-│   ├── energy_plot.png
-│   ├── angular_momentum.png
-│   └── t_handle_animation.png
+├── energy_plot.png
+├── angular_momentum.png
+|── t_handle_animation.png
 │
 └── README.md
