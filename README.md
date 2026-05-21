@@ -29,7 +29,7 @@ Since there is no external torque:
 
 ### Energy Conservation Plot
 
-![Energy Plot](images/total_energy.png)
+![Energy Plot](total_energy.png)
 
 ---
 
@@ -53,7 +53,7 @@ Physical interpretation:
 
 ### Angular Momentum Plot
 
-![Angular Momentum](images/angular_mom_cm.png)
+![Angular Momentum](angular_mom_cm.png)
 
 ---
 
@@ -67,7 +67,7 @@ The animation shows:
 
 ### Animation Snapshots
 
-![3D Motion](images/main_image_t_handle.png)
+![3D Motion](main_image_t_handle.png)
 
 ---
 
